@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "session-switch@digitalpromotionadv.it": {
+      "updates": [
+        {
+          "version": "0.1.2",
+          "update_link": "https://github.com/mzaccaria67/session-switch-releases/releases/download/v0.1.2/session-switch-v0.1.2.xpi"
+        }
+      ]
+    }
+  }
+}
